@@ -1,0 +1,21 @@
+body{
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    background-size: cover;
+}
+h1{
+    color: orange;
+}
+p{
+    color: white;
+}
+button{
+    background-color: orange;
+    font-weight: bolder;
+    color: green;
+    width: 12%;
+    margin-top: 5px;
+    border-radius: 5px;
+}
